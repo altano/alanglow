@@ -1,21 +1,13 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "name": "Alanglow",
+  "developer": {
+    "name": "Alan Norbauer",
+    "url": "https://alan.norbauer.com"
+  },
+  "hompage_url": "https://github.com/altano/alanglow",
   "theme": {
-    "images": {
-      "additional_backgrounds": [
-        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
-      ]
-    },
-    "properties": {
-      "additional_backgrounds_alignment": [
-        "top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
-    },
     "colors": {
       "toolbar": "rgb(39, 29, 78)",
       "toolbar_text": "rgb(209, 201, 234)",
