@@ -1,0 +1,57 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Alanglow",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(39, 29, 78)",
+      "toolbar_text": "rgb(209, 201, 234)",
+      "frame": "rgb(26, 21, 53)",
+      "tab_background_text": "rgb(209, 201, 234)",
+      "toolbar_field": "rgb(45, 36, 91)",
+      "toolbar_field_text": "rgb(209, 201, 234)",
+      "tab_line": "rgb(198, 138, 255)",
+      "popup": "rgb(0, 255, 204)",
+      "popup_text": "rgb(39, 29, 78)",
+      "button_background_hover": "rgb(61, 51, 98)",
+      "frame_inactive": "rgb(39, 29, 78)",
+      "icons_attention": "rgb(0, 255, 204)",
+      "icons": "rgb(198, 138, 255)",
+      "ntp_background": "rgb(39, 29, 78)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "popup_border": "rgb(39, 29, 78)",
+      "popup_highlight_text": "rgb(26, 21, 53)",
+      "popup_highlight": "rgb(198, 138, 255)",
+      "sidebar_border": "rgba(0, 0, 0, 0)",
+      "sidebar_highlight_text": "rgb(26, 21, 53)",
+      "sidebar_highlight": "rgb(198, 138, 255)",
+      "sidebar_text": "rgb(209, 201, 234)",
+      "sidebar": "rgb(39, 29, 78)",
+      "tab_background_separator": "rgba(0, 0, 0, 0)",
+      "tab_loading": "rgb(0, 255, 204)",
+      "tab_selected": "rgb(198, 138, 255)",
+      "tab_text": "rgb(26, 21, 53)",
+      "toolbar_bottom_separator": "rgb(26, 21, 53)",
+      "toolbar_field_border_focus": "rgb(0, 255, 204)",
+      "toolbar_field_focus": "rgb(0, 255, 204)",
+      "toolbar_field_highlight_text": "rgb(26, 21, 53)",
+      "toolbar_field_highlight": "rgb(198, 138, 255)",
+      "toolbar_field_text_focus": "rgb(39, 29, 78)",
+      "toolbar_top_separator": "rgb(26, 21, 53)",
+      "toolbar_vertical_separator": "rgb(0, 255, 204)"
+    }
+  }
+}
